@@ -1,4 +1,4 @@
-# este-module
+# highlight-text
 
 > Highlight text case and accent insensitive.
 
